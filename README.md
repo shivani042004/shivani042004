@@ -1,7 +1,16 @@
 <h1 align="left">Shivani Prasad</h1>
 
 <p align="left">
-**Aspiring Data Analyst | Python | SQL | Power BI | Excel | Data Visualization | Machine Learning.**
+**Aspiring Data Analyst | Python | SQL | Power BI | Excel | Data Visualization | Machine Learning**
+</p>
+
+I am a B.Tech student at MANIT Bhopal with a strong interest in **Data Analytics, Business Intelligence, and Machine Learning**. I work on projects involving **data cleaning, exploratory analysis, dashboard development**, and predictive modeling, with the goal of turning raw data into insights that support practical business decisions.
+
+---
+<h1 align="left">Shivani Prasad</h1>
+
+<p align="left">
+Aspiring Data Analyst | Python | SQL | Power BI | Excel | Data Visualization | Machine Learning.
 </p>
 
 I am a B.Tech student at MANIT Bhopal with a strong interest in Data Analytics, Business Intelligence, and Machine Learning. I work on projects involving data cleaning, exploratory analysis, dashboard development, and predictive modeling, with the goal of turning raw data into insights that support practical business decisions.

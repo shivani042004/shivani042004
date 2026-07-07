@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Shivani Prasad</h1>
 
-<!--
-**shivani042004/shivani042004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Aspiring Data Analyst | Python | SQL | Power BI | Excel | Data Visualization | Machine Learning 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I am a B.Tech student at MANIT Bhopal with a strong interest in Data Analytics, Business Intelligence, and Machine Learning. I work on projects involving data cleaning, exploratory analysis, dashboard development, and predictive modeling, with the goal of turning raw data into insights that support practical business decisions.
+
+---
+
+### Projects
+
+| Project | Key Finding | Tech Stack | Link |
+|---|---|---|---|
+| **Olist E-Commerce Sales Analysis** | Health & Beauty was the top revenue category; São Paulo drove 37% of sales | Python, SQL, Power BI, DAX | [View Project](#) |
+| **Loan Default Risk Dashboard** | Unemployed borrowers default at 3.39% vs 2.36% for full-timers | Power BI, DAX, Excel | [View Project](#) |
+| **Student Performance Analysis** | Free/reduced-lunch students are 3x more at-risk (31% vs 12%) | Python, Pandas, Seaborn | [View Project](#) |
+
+---
+
+### Other Projects
+
+| Project | Tech Stack | Link |
+|---|---|---|
+| Titanic Survival Prediction | Python, Pandas, Matplotlib, Scikit-learn | [View Project](#) |
+| Diwali Sales Analysis | Python, Pandas, Matplotlib, Seaborn | [View Project](#) |
+| Insurance Analytics Dashboard | Power BI | [View Project](https://github.com/shivani042004/Insurance-Analytics-PowerBI) |
+| UPI Transaction Analysis | Power BI | [View Project](https://github.com/shivani042004/UPI-Transaction-Analysis-PowerBI) |
+| Retail Sales Analytics | Power BI, Excel | [View Project](https://github.com/shivani042004/Retail-Sales-Analytics-PowerBI) |
+
+---
+
+### Skills
+
+**Python** · **SQL** · **Power BI** · **DAX** · **Excel** · **Data Visualization** · **EDA** · **Data Cleaning & preprocessing** · **Feature selection & Extraction** · **Scikit-learn** · **Machine Learning** 
+
+---
+
+### Education
+
+MANIT Bhopal · B.Tech, Materials & Metallurgical Engineering · 2023-2027 · CGPA 8.36
+
+---
+
+### Connect
+
+- GitHub: [github.com/shivani042004](https://github.com/shivani042004)
+- LinkedIn: [[Add your LinkedIn link](https://www.linkedin.com/in/shivani-prasad2/)]
+- Email: prasadshivani0410@gmail.com

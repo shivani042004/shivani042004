@@ -15,7 +15,6 @@ I am a B.Tech student at MANIT Bhopal with a strong interest in **Data Analytics
 | **Zomato Restaurant EDA** | North Indian & Indo-Chinese dominate cuisine; online delivery restaurants get 4x more votes | Python, Pandas, NumPy, Matplotlib, Seaborn | [View Project](https://github.com/shivani042004/Zomato-Restaurant-EDA) |
 | **Olist E-Commerce Sales Analysis** | Health & Beauty was the top revenue category; São Paulo drove 37% of sales | Python, SQL, Power BI, DAX | [View Project](https://github.com/shivani042004/Olist-Ecommerce-Sales-Analysis) |
 | **Loan Default Risk Dashboard** | Unemployed borrowers default at 3.39% vs 2.36% for full-timers | Power BI, DAX, Excel | [View Project](https://github.com/shivani042004/Loan-Default-Risk-Analysis) |
-| **Student Performance Analysis** | Free/reduced-lunch students are 3x more at-risk (31% vs 12%) | Python, Pandas, Seaborn | [View Project](https://github.com/shivani042004/Student-Performance-Analysis) |
 
 ---
 
@@ -23,6 +22,7 @@ I am a B.Tech student at MANIT Bhopal with a strong interest in **Data Analytics
 
 | Project | Tech Stack | Link |
 |---|---|---|
+| Student Performance Analysis | Python, Pandas, Seaborn | [View Project](https://github.com/shivani042004/Student-Performance-Analysis) |
 | Diwali Sales Analysis | Python, Pandas, Matplotlib, Seaborn | [View Project](https://github.com/shivani042004/Python_Diwali_Sales_Analysis) |
 | Insurance Analytics Dashboard | Power BI | [View Project](https://github.com/shivani042004/Insurance-Analytics-PowerBI) |
 | UPI Transaction Analysis | Power BI | [View Project](https://github.com/shivani042004/UPI-Transaction-Analysis-PowerBI) |

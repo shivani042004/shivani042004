@@ -44,5 +44,5 @@ MANIT Bhopal · B.Tech, Materials & Metallurgical Engineering · 2023-2027 · CG
 ### Connect
 
 - GitHub: [github.com/shivani042004](https://github.com/shivani042004)
-- LinkedIn: [[Add your LinkedIn link](https://www.linkedin.com/in/shivani-prasad2/)]
+- LinkedIn: [[linkedin.com/shivani-prasad2](https://www.linkedin.com/in/shivani-prasad2/)]
 - Email: prasadshivani0410@gmail.com

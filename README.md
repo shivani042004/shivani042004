@@ -22,6 +22,7 @@ I am a B.Tech student at MANIT Bhopal with a strong interest in **Data Analytics
 
 | Project | Tech Stack | Link |
 |---|---|---|
+| Titanic Survival Prediction | Python, Pandas, Scikit-learn, Seaborn | [View Project](https://github.com/shivani042004/Titanic-Survival-Prediction) |
 | World Happiness Report EDA | Python, Pandas, Matplotlib, Seaborn | [View Project](https://github.com/shivani042004/World-Happiness-Analysis) |
 | Student Performance Analysis | Python, Pandas, Seaborn | [View Project](https://github.com/shivani042004/Student-Performance-Analysis) |
 | Diwali Sales Analysis | Python, Pandas, Matplotlib, Seaborn | [View Project](https://github.com/shivani042004/Python_Diwali_Sales_Analysis) |
